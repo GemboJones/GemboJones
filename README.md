@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi 👋 I'm Gemma
+Full Stack Developer - JavaScript | React | Node | Express | PostgreSQL
 
+📫 How to reach me: <a href="https://www.linkedin.com/in/gemma-randall-design/">Gemma Randall LinkedIn</a>
 <!--
 **GemboJones/GemboJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
