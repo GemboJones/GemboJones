@@ -1,5 +1,5 @@
-### Hi 👋 I'm Gemma
-Full Stack Developer - React | JavaScript | Node | Express | PostgreSQL
+## Hi, I'm Gemma 👋
+### Full Stack Developer | React | JavaScript | Node | Express | PostgreSQL
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/gemma-randall-design/">Gemma Randall LinkedIn</a>
 <!--
