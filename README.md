@@ -1,7 +1,9 @@
 ## Hi, I'm Gemma 👋
-### Full Stack Developer | React | JavaScript | Node | Express | PostgreSQL
+### Full Stack Developer | React | JavaScript | HTML | CSS | Node | Express | SQL | PostgreSQL
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/gemma-randall-design/">Gemma Randall LinkedIn</a>
+I'm a highly collaborative full stack developer who builds websites and apps with an emphasis on user experience and design. Reach out if you'd like to learn more!
+
+#### 📫 Let's connect: <a href="https://www.linkedin.com/in/gemma-randall-design/">Gemma Randall LinkedIn</a>
 <!--
 **GemboJones/GemboJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
