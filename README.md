@@ -1,4 +1,4 @@
-## Hi, I'm Gemma 👋
+# Hi, I'm Gemma 👋
 ### Full Stack Developer | React | JavaScript | HTML | CSS | Node | Express | SQL | PostgreSQL
 
 I'm a highly collaborative full stack developer who builds websites and apps with an emphasis on user experience and design. Reach out if you'd like to learn more!
